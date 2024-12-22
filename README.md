@@ -2,8 +2,6 @@
 
 this must be something in my profile, is it?
 
-kleine Änderung
-
 <!--
 **CEuchner/CEuchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
